@@ -1,6 +1,6 @@
 # COG-BCI_FC_GNN
 
-## Contributors (Without Order):
+## Contributors:
 * Mohammad Ahadzadeh
 * Pouya Taghipour
 * Arian Afshar
